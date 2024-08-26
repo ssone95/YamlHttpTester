@@ -1,0 +1,19 @@
+---
+name: 'test1 container'
+description: >
+  This is a
+  very long description
+  split into
+  multiple lines!
+baseheaders:
+  - key: "Authorize"
+    value: ""
+baseurl: 'http://localhost:5020/'
+tests:
+  - name: 'test1'
+    method: 'POST'
+    endpoint: 'Upload/Post'
+    priority: -100
+    headers: 
+      - key: "Test"
+        value: "Some Value"

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NtIS9hGHYxzfKYmO6jPFuQKIu1wEnAEACJAOUG7KyuwM+oSONznq3fxG90HM5apvsDLAu822DFj5ZUM/GBT2nw==",
+  "success": true,
+  "projectFilePath": "/home/nedeljko/RiderProjects/ApiTestRunner/ApiTestRunner/ApiTestRunner.csproj",
+  "expectedPackageFiles": [
+    "/home/nedeljko/.nuget/packages/yamldotnet/16.0.0/yamldotnet.16.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

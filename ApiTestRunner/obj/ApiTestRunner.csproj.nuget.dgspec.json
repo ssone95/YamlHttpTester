@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/nedeljko/RiderProjects/ApiTestRunner/ApiTestRunner/ApiTestRunner.csproj": {}
+  },
+  "projects": {
+    "/home/nedeljko/RiderProjects/ApiTestRunner/ApiTestRunner/ApiTestRunner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/nedeljko/RiderProjects/ApiTestRunner/ApiTestRunner/ApiTestRunner.csproj",
+        "projectName": "ApiTestRunner",
+        "projectPath": "/home/nedeljko/RiderProjects/ApiTestRunner/ApiTestRunner/ApiTestRunner.csproj",
+        "packagesPath": "/home/nedeljko/.nuget/packages/",
+        "outputPath": "/home/nedeljko/RiderProjects/ApiTestRunner/ApiTestRunner/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/nedeljko/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "YamlDotNet": {
+              "target": "Package",
+              "version": "[16.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
